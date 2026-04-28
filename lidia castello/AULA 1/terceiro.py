@@ -1,0 +1,6 @@
+print ("olá mundo")
+print ("bem-vindo ao sistema \n")
+print ("digite a opção desejada: \n")
+print ("opção 1: estudar python \n")
+print ("opção 2: ouvir mc kevin \n")
+print (" opção 3: encerrar sistema \n")
