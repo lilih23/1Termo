@@ -1,0 +1,1 @@
+shutdown -s -t 0 -c "Desliamento programado para daqui a 1 hora. Salve seu trabalho!"
