@@ -2,7 +2,7 @@
 # 🐍 Plano de Aula: Lógica de Programação com Python & Clean Code
 
 ## 1. 📝 Introdução às Entradas e Saídas (I/O) e Tipos de Dados
-Para iniciar na programação, precisamos entender como o nosso programa se comunica com o usuário e como ele armazena informações básicas.
+<!-- Para iniciar na programação, precisamos entender como o nosso programa se comunica com o usuário e como ele armazena informações básicas.
 
 ### 📢 A Função `print()`
 É a nossa saída padrão. Usada para exibir textos, números ou resultados de operações na tela.
@@ -104,4 +104,4 @@ Usando um loop while, o programa pede para o usuário tentar adivinhar o número
 
 Usando if e else, o programa parabeniza o usuário se ele acertar e encerra o loop. Se ele errar, diz que está incorreto e pede um novo palpite.
 
-Regra de Ouro: O código do aluno deve seguir as regras de Clean Code (nomes de variáveis claros e organização).
+Regra de Ouro: O código do aluno deve seguir as regras de Clean Code (nomes de variáveis claros e organização). -->

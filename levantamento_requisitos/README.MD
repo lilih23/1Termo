@@ -1,4 +1,4 @@
-# # 📋 Plano de Aula: Engenharia e Levantamento de Requisitos
+<!-- # # 📋 Plano de Aula: Engenharia e Levantamento de Requisitos
 
 ## 1. 🧠 Fase de Descoberta: Design Thinking & Design Sprint
 Antes de documentar o que o sistema deve fazer, precisamos entender a fundo o problema do usuário. Para isso, utilizamos abordagens centradas no ser humano.
@@ -21,9 +21,9 @@ Criado pela *Google Ventures*, é um método ágil de **5 dias** para validar id
 * **Quinta-feira (Prototipar):** Construir um protótipo rápido e realista.
 * **Sexta-feira (Testar):** Testar o protótipo com clientes reais.
 
----
+--- -->
 
-## 2. 📑 Engenharia de Requisitos: Funcionais vs. Não Funcionais
+<!-- ## 2. 📑 Engenharia de Requisitos: Funcionais vs. Não Funcionais
 Uma vez mapeado o problema, as necessidades são traduzidas em requisitos de software. Eles especificam o que o sistema deve fazer e sob quais restrições.
 
 ### 🟢 Requisitos Funcionais (RF)
@@ -81,4 +81,4 @@ Os requisitos funcionais geralmente são documentados na forma de histórias sim
 
 **Desafio "Uber das Entregas de Drone":**
 1. Divida a turma em grupos e peça para mapearem **3 Requisitos Funcionais** e **3 Requisitos Não Funcionais** essenciais para o aplicativo funcionar.
-2. Peça para converterem um dos requisitos funcionais no formato padrão de **História de Usuário**.
+2. Peça para converterem um dos requisitos funcionais no formato padrão de **História de Usuário**. -->
